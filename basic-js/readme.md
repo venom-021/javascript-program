@@ -86,3 +86,76 @@ system how to interprit its value.
       }
 
       in the above example we can see that the left hand side elements are the keys & the right hand side element are values so we can tell that object is the key:value pair structure.
+
+
+  3. Function :-
+
+ - in function , we repeatedlly do the task in function.
+ - function reduce our code complexity and time & space complexity.
+ - syntax ->
+
+// function
+ function my_schedule(){
+  console.log("we wake up at 6 am")
+  console.log("we go for a morning walk")
+  console.log("we go to our college for time pass")
+ 
+}
+
+// function calling 
+my_schedule()
+
+
+Operator in JS:-
+
+- opertor are the key features to do some task or operate some task.
+- ex A+B
+- in above example A,B are the operands & "+" is the operator.
+- there are 5 types of operator are present in javascript.
+
+1. Arithmetic operator :-
+(+,-,*,/,), %(modulus), **(exponentiation)
+2. Logical operator :-
+logical AND (&&), logical OR (||)
+
+3. Assignment operator:-
+(=, =, +=, -=, *=, %=, **=)
+4. Unary operator:-
+increment (++), decrement (--)
+5. comparision operator:-
+(==, !==, === etc....)
+
+
+Conditional statement:-
+
+- To implement some condition in the code.
+- there are 3 types of conditional statement are there
+1. if condition :- 
+- if condition is true then statement is true.
+-syntax :-
+if(condition){
+  statement
+} 
+
+2. if-else condition :-
+-if condition is true then statement is true otherwise false.
+-syntax :-
+if(condition){
+  statement
+} else{
+  statement
+}
+
+3. if-elif condition :-
+-its check the condition multiple times , where the condition is true.
+-syntax :-
+if(condition){
+  statement
+} else if(condition){
+     statement
+} else {
+  statement
+}
+
+
+

@@ -24,4 +24,15 @@
 
 
 
-let arr = [15,20,25,30,35,4]
+// let arr = [15,20,25,30,35,4]
+// function
+function my_schedule(){
+    console.log("we wake up at 6 am")
+    console.log("we go for a morning walk")
+    console.log("we go to our college for time pass")
+   
+  }
+  
+  // function calling 
+  my_schedule()
+  my_schedule()
